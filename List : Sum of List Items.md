@@ -1,4 +1,3 @@
-<img width="953" height="193" alt="438311670-99ccf546-9301-41d3-8656-cb243f0e3785" src="https://github.com/user-attachments/assets/5b7add26-4980-4841-98d5-bcb633307599" /># List Operations in Python: Sum of List Items
 
 ## 🎯 Aim
 To write a Python program that calculates the **sum of all elements** in a list.
